@@ -1,0 +1,19 @@
+
+
+NET "rst" LOC = B8;
+NET "rd1[2]" LOC = T5;
+NET "rd1[1]" LOC = V8;
+NET "rd1[0]" LOC = U8;
+NET "wr[2]" LOC = N8;
+NET "wr[1]" LOC = M8;
+NET "wr[0]" LOC = V9;
+NET "In1[15]" LOC = T9;
+NET "In1[14]" LOC = T10;
+NET "out1[15]" LOC = T11;
+NET "out1[14]" LOC = R11;
+INST "clk_BUFGP" LOC = V10;
+NET "clk" LOC = V10;
+
+# PlanAhead Generated physical constraints 
+
+NET "we" LOC = D9;
