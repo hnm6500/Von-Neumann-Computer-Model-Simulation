@@ -4,7 +4,7 @@
 -- 
 -- Create Date:    15:51:38 03/19/2017 
 -- Design Name:   Multiplier 
--- Module Name:    multiplier - Behavioral 
+-- Module Name:    multiplier - Structural 
 -- Project Name: Arithmetic Logic Unit
 -- Target Devices: Nexys 3 board
 -- Tool versions: spartan 6
